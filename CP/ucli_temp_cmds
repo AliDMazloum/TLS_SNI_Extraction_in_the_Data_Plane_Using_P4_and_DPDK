@@ -1,0 +1,8 @@
+ucli
+pm port-del 4/- 
+pm port-add 4/- 40G NONE 
+pm port-enb 4/- 
+pm show 
+exit
+exit
+
