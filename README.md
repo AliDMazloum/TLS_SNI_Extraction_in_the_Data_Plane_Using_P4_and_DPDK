@@ -1,5 +1,5 @@
-# P4-TLS
-This project parses TLS SNI extension using P4 language on Tofino architecture. This repository contains:
+# Domain Name Security Inspection at Line Rate: TLS SNI Extraction in the Data Plane Using P4 and DPDK
+This project parses TLS SNI extension using P4 language on Tofino architecture and DPDK on BlueField 2. This repository contains:
 
     - P4/: P4 code that runs on Tofino. The program compiles on BF SDE 9.6.0.  
         Use "make compile" to compile the P4 program.
